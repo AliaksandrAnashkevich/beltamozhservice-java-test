@@ -1,13 +1,13 @@
-package by.test.beltamozhservice.beltamozhservicetest;
+package by.test.beltamozhservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BeltamozhserviceTestApplication {
+public class BeltamozhserviceTestTaskApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BeltamozhserviceTestApplication.class, args);
+		SpringApplication.run(BeltamozhserviceTestTaskApplication.class, args);
 	}
 
 }
